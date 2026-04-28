@@ -30,5 +30,5 @@ A long-term Python project to test and solidify my overall understanding.
 
 Currently learning SQL.
 
-
+***Checkout my projects below***
 
