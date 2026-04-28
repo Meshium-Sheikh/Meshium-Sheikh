@@ -1,5 +1,5 @@
 ## Hi there 👋
-Its Meshium its good to see you here.
+Its Meshium, thanks for being here.
 
 I'm a student heading toward studying CompSci & AI specialisation.
 For my pre-uni era I decided to learn Python and its libraries like Seaborn and Matplotlib to get a headstart in my degree.
