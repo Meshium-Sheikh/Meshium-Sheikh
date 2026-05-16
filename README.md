@@ -7,6 +7,6 @@ My favourite project so far has been analysing dataset to predict students succe
 
 Currently I am trying to build a live API report generation project using NASA'S APOD API.
 
-Aside from data analysis I am cementing my knowledge in Python by making self-guided projects.
+Aside from data analysis I am cementing my knowledge in Python by making self-guided projects and studying Data Structure and algorithms my primary source of knowledge being "Grokking Algorithms" by Adhitya Y. Barghava
 
 Check out my open repositries below and hmu with anything relevant!
