@@ -9,6 +9,13 @@ Currently I amin the final stages of bulding a build a live API report generatio
 
 Aside from data analysis I am cementing my Python through self-structured plan.
 
+To reach me : 
+
+Email @  meshiumsheikh@gmail.com
+
+Or connect with me @ linkedIn https://www.linkedin.com/in/meshium-sh/
+
+read my writings @ Medium https://medium.com/@meshiumsheikh
+
 Below are the public repositories projects which have been completed and other are on the way.
 
-You can reach me at meshiumsheikh@gmail.com or connect with me on linkedIn.
