@@ -1,5 +1,5 @@
 ## Hi there 👋
-Its Meshium, thanks for stopping by.
+Its Meshium Sheikh and this is my github account, thanks for stopping by.
 
 
 Email @  meshiumsheikh@gmail.com
