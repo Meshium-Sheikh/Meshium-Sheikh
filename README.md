@@ -11,7 +11,9 @@ Right now I am a BSCS first semester student at Bahria University Karachi and ve
 To contact me 
 
 Email me @  meshiumsheikh@gmail.com
+
  Or 
+ 
 Connect with me @ linkedIn https://www.linkedin.com/in/meshium-sh/
 
 
