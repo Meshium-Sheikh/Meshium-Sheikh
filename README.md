@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a Computer Science Freshman at Bahria University Karachi.
+I am a first semester BSCS student at Bahria University Karachi.
 
 On my gap year before uni I made : 
 A couple of data analysis projects I made using Python and its libraries like Pandas, Matplotlib, and Seaborn.
